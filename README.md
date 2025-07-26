@@ -1,3 +1,6 @@
+link to openFHE { felicia }
+https://github.com/openfheorg/openfhe-development
+
 # Vanilla JS example of minikit
 
 Apart from a frontend, you'll need a backend, this template contains an example of that as well
