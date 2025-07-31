@@ -1,7 +1,10 @@
 link to openFHE { felicia }
 https://github.com/openfheorg/openfhe-development
+
 link to Google if(f) Hairy met Sally
 https://heir.dev/
+
+https://www.deepfunding.app/
 
 # Vanilla JS example of minikit
 
