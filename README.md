@@ -6,6 +6,8 @@ https://heir.dev/
 
 https://www.deepfunding.app/
 
+As part of our commitment to transparency accounting
+
 # Vanilla JS example of minikit
 
 Apart from a frontend, you'll need a backend, this template contains an example of that as well
