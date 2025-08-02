@@ -1,3 +1,5 @@
+WARNING: This is an academic proof-of-concept prototype, and in particular has not received careful code review. This implementation is NOT ready for production use.
+
 link to openFHE { felicia }
 https://github.com/openfheorg/openfhe-development
 
