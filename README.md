@@ -4,6 +4,9 @@ Abstract: felicia is Super_Cargo#!
 ...
 When you compile a Rust project, rustc compiles a crate xor_nop scope
 
+16 bits i floater
+https://github.com/jazzychad/dcpu-js
+
 Hertzsprung's problem:
 https://oeis.org/A002464
 != 'sex is good ?'
