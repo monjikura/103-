@@ -1,3 +1,6 @@
+wire#it!
+https://www.hyphanet.org/
+
 WARNING: This is an academic proof-of-concept prototype, and in particular has not received careful code review. This implementation is NOT ready for production use.
 
 Abstract: felicia is Super_Cargo#!
