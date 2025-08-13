@@ -3,6 +3,9 @@ https://www.hyphanet.org/
 
 WARNING: This is an academic proof-of-concept prototype, and in particular has not received careful code review. This implementation is NOT ready for production use.
 
+MyEG-vendor
+https://github.com/Zetrix-Chain/node-red-zetrix
+
 Abstract: felicia is Super_Cargo#!
 ...
 When you compile a Rust project, rustc compiles a crate xor_nop scope
