@@ -13,6 +13,8 @@ When you compile a Rust project, rustc compiles a crate xor_nop scope
 16 bits i floater
 https://github.com/jazzychad/dcpu-js
 
+The statement is still a conjecture since it has not yet been proven that if a number n is not prime (that is, n is composite), then the formula does not hold. It has been shown that a composite number n satisfies the formula if and only if it is both a Carmichael number and a Giuga number, and that if such a number exists, it has at least 13,800 digits (Borwein, Borwein, Borwein, Girgensohn 1996). Laerte Sorini, in a work of 2001 showed that a possible counterexample should be a number n greater than  10^36067 which represents the limit suggested by Bedocchi for the demonstration technique specified by Giuga to his own conjecture.
+
 Hertzsprung's problem:
 https://oeis.org/A002464
 != 'sex is good ?'
