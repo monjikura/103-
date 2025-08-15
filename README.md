@@ -1,6 +1,12 @@
 wire#it!
 https://www.hyphanet.org/
 
+gated::
+...
+In geometric topology, a branch of mathematics, Moise's theorem, proved by Edwin E. Moise in Moise (1952), states that any topological 3-manifold has an essentially unique piecewise-linear structure and smooth structure.
+
+The analogue of Moise's theorem in dimension 4 (and above) is false: there are topological 4-manifolds with no piecewise linear structures, and others with an infinite number of inequivalent ones.
+
 WARNING: This is an academic proof-of-concept prototype, and in particular has not received careful code review. This implementation is NOT ready for production use.
 
 MyEG-vendor
