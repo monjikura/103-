@@ -9,6 +9,10 @@ gated::
 ...
 In geometric topology, a branch of mathematics, Moise's theorem, proved by Edwin E. Moise in Moise (1952), states that any topological 3-manifold has an essentially unique piecewise-linear structure and smooth structure.
 
+statement "knight c3 mistake Fischer" refers to a situation in the legendary "Game of the Century" (1956), where Donald Byrne's knight on c3 failed to properly defend the center, allowing Fischer to launch a devastating attack. Byrne's knight, though protected, was positioned poorly and did not adequately cover the e4 and d3 squares, which Fischer exploited to win the game and gain widespread fame
+
+https://en.m.wikipedia.org/wiki/Freshman%27s_dream
+
 The analogue of Moise's theorem in dimension 4 (and above) is false: there are topological 4-manifolds with no piecewise linear structures, and others with an infinite number of inequivalent ones.
 
 v as in visit link :
