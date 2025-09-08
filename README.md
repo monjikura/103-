@@ -1,4 +1,5 @@
-6006
+5944
+https://fravoll.github.io/solidity-patterns/tight_variable_packing.html
 ...
 https://babel.hathitrust.org/cgi/pt?id=coo.31924007343662
 
