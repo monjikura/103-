@@ -20,6 +20,8 @@ https://github.com/web3privacy
 
 WARNING: This is an academic proof-of-concept prototype, and in particular has not received careful code review. This implementation is NOT ready for production use.
 
+https://github.com/srlabs/blue-merle
+
 MyEG-vendor
 https://github.com/Zetrix-Chain/node-red-zetrix
 
