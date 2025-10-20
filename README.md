@@ -4,6 +4,8 @@ https://github.com/torvalds
 ...
 the difference is that the LuaJIT interpreter records some runtime statistics while executing the bytecode, such as the actual number of times each Lua function call entry is run and the actual number of times each Lua loop is executed.
 
+https://github.com/0xh4ty/JAMXSS
+
 https://www.hyphanet.org/
 
 https://www.hathitrust.org/
