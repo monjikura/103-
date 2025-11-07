@@ -1,3 +1,7 @@
+Legal Disclaimer ({ P.P Malaysia })
+...
+constitutional procedures in Article 159, obtaining the two Borneo states’ consent under Article 161E(2), and respecting Article 4(1), which states that the Federal Constitution is the supreme law of Malaysia.
+
 wire#it!
 https://github.com/torvalds
 
