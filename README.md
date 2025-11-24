@@ -2,6 +2,8 @@ Legal Disclaimer ({ P.P Malaysia })
 ...
 constitutional procedures in Article 159, obtaining the two Borneo states’ consent under Article 161E(2), and respecting Article 4(1), which states that the Federal Constitution is the supreme law of Malaysia.
 
+Bitcoin hashing difficulty is considered anomalous in November 2025 because it remains near all-time highs despite a significant drop in the Bitcoin price and miner revenue (hashprice). This divergence between network fundamentals and market price is highly unusual... Stochastic ( Graham )
+
 wire#it!
 https://github.com/torvalds
 
