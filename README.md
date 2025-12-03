@@ -4,6 +4,8 @@ constitutional procedures in Article 159, obtaining the two Borneo states’ con
 
 Bitcoin hashing difficulty is considered anomalous in November 2025 because it remains near all-time highs despite a significant drop in the Bitcoin price and miner revenue (hashprice). This divergence between network fundamentals and market price is highly unusual... Stochastic ( Graham )
 
+https://oeis.org/A165738
+
 wire#it!
 https://github.com/torvalds
 
