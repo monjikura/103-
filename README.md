@@ -4,6 +4,7 @@ https://en.wikipedia.org/wiki/Allen_%26_Gledhill
 
 * to tether or not ? UTXO 750 | ERC 20
 * user must gather enough UTXOs as      inputs ( read as input tax !# )
+* https://worldscan.org/tx/0x4b375a32323c6fa8bbbeb02d0a9e9bd17fe7c5c49f266978da0545a5fbf353cc
 
 https://www.commonlii.org/my/legis/const/1957/13.html
 
