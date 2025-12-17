@@ -2,6 +2,9 @@ impress area 51 load-sheet
 ref :. c. 
 https://en.wikipedia.org/wiki/Allen_%26_Gledhill
 
+* to tether or not ? UTXO 750 | ERC 20
+* user must gather enough UTXOs as      inputs ( read as input tax !# )
+
 https://www.commonlii.org/my/legis/const/1957/13.html
 
 Legal Disclaimer ({ P.P Malaysia })
