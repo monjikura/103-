@@ -6,6 +6,8 @@ https://en.wikipedia.org/wiki/Allen_%26_Gledhill
 * user must gather enough UTXOs as      inputs ( read as input tax !# )
 * https://worldscan.org/tx/0x4b375a32323c6fa8bbbeb02d0a9e9bd17fe7c5c49f266978da0545a5fbf353cc
 
+$XRP Ledger := https://en.wikipedia.org/wiki/Greenberger%E2%80%93Horne%E2%80%93Zeilinger_state
+
 https://www.commonlii.org/my/legis/const/1957/13.html
 
 Legal Disclaimer ({ P.P Malaysia })
