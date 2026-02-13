@@ -8,6 +8,8 @@ Jan 16th , 2026
 
 { latest purchase brings Strategy’s total Bitcoin holdings to a staggering 687,410 BTC, accumulated at a combined cost basis of approximately $51.80 billion. This equates to an average of $75,353 per coin... }
 
+Based on recent DARPA initiatives, the focus on sub-picosecond timing precision is primarily driven by the ROCkN (Robust Optical Clock Network) program, which aims for sub-picosecond accuracy rather than just 400 picoseconds. 
+
 impress area 51 load-sheet
 ref :. c. 
 https://en.wikipedia.org/wiki/Allen_%26_Gledhill
