@@ -2,6 +2,11 @@
 ...
 https://youtu.be/BDC4_inKkis?si=dUe0AcSbX8TwMicx
 
+"durian_FABRIC"
+sub pico pseudopotential initial
+eigenvalue - 20922789888001
+( pending Perl prove 0.25 )
+
 https://github.com/govtechmy/myds
 
 Jan 16th , 2026
