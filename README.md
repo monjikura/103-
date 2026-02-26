@@ -2,6 +2,8 @@
 ...
 https://youtu.be/BDC4_inKkis?si=dUe0AcSbX8TwMicx
 
+https://github.com/monjikura/rabbit.java/blob/main/Strawberry.MD
+
 "durian_FABRIC"
 sub pico pseudopotential initial
 eigenvalue - 20922789888001
