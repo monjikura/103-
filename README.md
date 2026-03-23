@@ -1,3 +1,8 @@
+
+when boy meeets girl confined in a room
+https://oeis.org/A250000
+{ Baku Station 1930s }
+
 #! ~ https://github.com/MrChico/verifyIPFS
 
 9999 from a Malaysian to the word , courtesy of YTL 
