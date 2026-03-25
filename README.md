@@ -1,4 +1,6 @@
 
+"Bobby Fischer Day" was officially proclaimed in New York on September 22, 1972, by Mayor John V. Lindsay to honor the American chess grandmaster's victory over Boris Spassky. Celebrated after his historic 1972 World Championship win, the event featured ceremonies and honors for the new world champion.
+
 Government/Public Hospitals: A shorter, strict limitation period of 36 months (3 years) applies under Section 2(a) of the Public Authorities Protection Act 1948 (PAPA)
 
 The Beacon Tester Mini Wi-Fi is a specialized, portable test solution for distress radio beacons (EPIRBs, PLBs) operating within the Cospas-Sarsat system. It is designed to be controlled remotely via a smartphone (Android, iOS), laptop, or PC, with no physical screen or keyboard on the device itself.
