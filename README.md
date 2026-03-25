@@ -1,4 +1,5 @@
 
+Government/Public Hospitals: A shorter, strict limitation period of 36 months (3 years) applies under Section 2(a) of the Public Authorities Protection Act 1948 (PAPA)
 
 The Beacon Tester Mini Wi-Fi is a specialized, portable test solution for distress radio beacons (EPIRBs, PLBs) operating within the Cospas-Sarsat system. It is designed to be controlled remotely via a smartphone (Android, iOS), laptop, or PC, with no physical screen or keyboard on the device itself.
 
