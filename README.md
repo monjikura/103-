@@ -2,6 +2,8 @@ C#Swap is currently  ' on WorldChain
 
 https://github.com/ButterJ1/coffeswap
 
+https://github.com/awesome-android-root/awesome-android-root/blob/main/docs/rooting-guides/how-to-unlock-bootloader.md#step-5-test-adb-connection
+
 "Bobby Fischer Day" was officially proclaimed in New York on September 22, 1972, by Mayor John V. Lindsay to honor the American chess grandmaster's victory over Boris Spassky. Celebrated after his historic 1972 World Championship win, the event featured ceremonies and honors for the new world champion.
 
 Government/Public Hospitals: A shorter, strict limitation period of 36 months (3 years) applies under Section 2(a) of the Public Authorities Protection Act 1948 (PAPA)
