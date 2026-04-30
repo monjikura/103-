@@ -1,3 +1,7 @@
+? how stable is $STABLECOIN ?? 
+
+https://zachxbt.live/
+
 https://jonkagstrom.com/fertility-numbers/
 
 C#Swap is currently  ' on WorldChain
