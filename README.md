@@ -4,6 +4,8 @@ https://zachxbt.live/
 
 https://jonkagstrom.com/fertility-numbers/
 
+The Auditor-General (AG) and Sarawak state laws require that audited statements of accounts for statutory bodies and public authorities be laid before the Dewan Undangan Negeri (DUN) to ensure transparency and accountability. Under the Audit Act 1957, the AG ensures reports for state entities are presented to the Yang di-Pertua Negeri for submission to the legislative assembly
+
 C#Swap is currently  ' on WorldChain
 
 https://github.com/ButterJ1/coffeswap
