@@ -1,6 +1,9 @@
 https://github.com/monjikura/dirty_panties
 
 ? how stable is $STABLECOIN ?? 
+( where d = 2.955765285651994974714817524... is the Otter's rooted tree constant )
+
+require #!Durian^5
 
 https://zachxbt.live/
 
