@@ -1,3 +1,8 @@
+cNOT dis/info3R
+...
+
+https://www.lpspllc.com/
+
 https://github.com/monjikura/dirty_panties
 
 ? how stable is $STABLECOIN ?? 
