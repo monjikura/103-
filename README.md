@@ -1,3 +1,7 @@
+<\DocType/ >
+
+Malaysia has officially committed to implementing the OECD's Crypto-Asset Reporting Framework (CARF). The country is scheduled to begin the first automatic information exchanges under the CARF by 2028
+
 https://www.oneforma.com/
 
 cNOT dis/info3R
