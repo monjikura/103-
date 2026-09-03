@@ -1,3 +1,8 @@
+why the youtube link below ?
+you may ask ...
+2 words ...
+agentic AI meets OEIS ({numbers})
+
 https://youtu.be/Hf0rjtnwC9A?si=vZZyGVjsonP3z_EN
 
 <\DocType/ >
